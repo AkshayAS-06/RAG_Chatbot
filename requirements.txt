@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+langchain
+langchain-google-genai
+langgraph
+PyPDF2
+aiofiles
+requests
+qdrant-client
