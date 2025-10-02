@@ -1,5 +1,15 @@
-# Ignore environment variables file
+# Virtual Environments
+.venv/
+venv/
+
+# Environment variables
 .env
 
-# Ignore config files with API keys
-config.py
+# Python cache
+__pycache__/
+*.pyc
+
+# Uploaded files
+uploaded_docs/
+uploaded_files/
+
